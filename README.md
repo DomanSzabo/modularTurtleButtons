@@ -6,7 +6,7 @@ prequisites to using:
 - imported the script into the main script
 - have a turtle aleready made in your main script
 - repeat the following inside your main script:
-  "def onClick(x, y):
+  def onClick(x, y):
     Button.handle_click(x, y)
 
 after that just make a button like the following:
